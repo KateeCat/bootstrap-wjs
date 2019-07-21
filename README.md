@@ -1,6 +1,6 @@
 ## 仿微金所响应式布局（bootstrap小项目)
 
-1. 用bootstrap+less+css+jq
+1. 用bootstrap+less+javascirpt
 2. 模拟微金所实现了首页布局
 
    - 整体结构使用bootstrap框架响应式布局 
