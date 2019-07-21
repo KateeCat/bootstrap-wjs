@@ -8,3 +8,4 @@
    - 轮播图使用了Carousel.js
    - 标签页根据Example tabs进行改造
 
+浏览页面：https://kateecat.github.io/bootstrap-wjs/index.html
